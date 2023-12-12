@@ -1,3 +1,4 @@
+/* colors */
 :root{
     --accent-color:#2196F3;
     --main-color:#000000;
@@ -5,3 +6,6 @@
     --second-color:#212121;
     --section-color:#2F303A;
 }
+/* font */
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
